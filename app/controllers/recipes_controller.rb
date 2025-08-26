@@ -26,19 +26,3 @@ class RecipesController < ApplicationController
     ])
   end
 end
-
-# {
-#   :recipe => {
-#     :title => "Chocolate Cake",
-#     :ingredients_attributes => {
-#       "0" => {
-#         :name => "sugar",
-#         :quantity => "1 cup"
-#       },
-#       "1" => {
-#         :name => "vanilla",
-#         :quantity => "1 tablespoon"
-#       }
-#     }
-#   }
-# }
