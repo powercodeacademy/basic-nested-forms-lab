@@ -15,6 +15,7 @@ group :development, :test do
   gem 'capybara', '>= 3.26'
   gem 'spring'
   gem 'webrick', '~> 1.8'
+  gem 'pry'
 end
 
 group :development do
